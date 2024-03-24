@@ -1,0 +1,4 @@
+Command for converting xml files to csv
+python xml_to_csv.py
+---------------------------------------------
+command for converting csv to tf records
